@@ -11,13 +11,13 @@
         remote="eqe-github"
         name="android_device_motorola_eqe"
         path="device/motorola/eqe"
-        revision="lineage-22.1"
+        revision="lineage-23.0"
     />
     <project
         remote="eqe-lineage"
         name="android_hardware_motorola"
         path="hardware/motorola"
-        revision="lineage-22.1"
+        revision="lineage-23.0"
     />
 
     <!-- Vendor -->
@@ -25,7 +25,7 @@
         remote="eqe-gitlab"
         name="proprietary_vendor_motorola_eqe"
         path="vendor/motorola/eqe"
-        revision="lineage-22.1"
+        revision="lineage-23.0"
     />
 
     <!-- Kernel -->
@@ -33,7 +33,7 @@
         remote="eqe-github"
         name="android_kernel_motorola_sm7550"
         path="kernel/motorola/sm7550"
-        revision="lineage-22.1"
+        revision="lineage-23.0"
     />
     <project
         remote="eqe-github"
